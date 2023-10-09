@@ -15,7 +15,9 @@
     <link rel="stylesheet" href="/assets/css/styles.css" />
   </head>
 
+
   <body>
+    <!-- Navigation with an add and save buttons -->
     <nav class="navbar bg-info">
       <a class="navbar-brand text-light p-3" href="/">Note Taker </a>
       <div class="icons">
@@ -23,13 +25,16 @@
         <i class="fas fa-plus text-light new-note"></i>
       </div>
     </nav>
+
     <div class="container-fluid">
       <div class="row">
         <div class="col-4 list-container">
+          <!-- Side bar with a list of notes -->
           <div class="card">
             <ul class="list-group"></ul>
           </div>
         </div>
+        <!-- Shows the details of a selected note or create a note -->
         <div class="col-8">
           <input
             class="note-title"
