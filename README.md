@@ -23,6 +23,9 @@ All of the front end code was provided to me.  I was expected to create the back
 2. NPM UUID package documentation - https://www.npmjs.com/package/uuid
 3. Promises - W3Schools.com - https://www.w3schools.com/js/js_promise.asp
 4. Async/Await - W3Schools.com - https://www.w3schools.com/js/js_async.asp
+5. Heroku documentation - https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app
+6. Removing remote apps from Git - https://stackoverflow.com/questions/21760608/heroku-remote-wont-delete
+
 
 ## License
 MIT License
