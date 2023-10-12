@@ -3,5 +3,10 @@
         "title": "This is a new note",
         "text": "This is the content of the new note",
         "id": "fa3df5b9-7f5c-4210-b5b9-2ccbd7f71c85"
+    },
+    {
+        "title": "This is a note",
+        "text": "This is a note",
+        "id": "abec7e34-d593-481b-b032-792ba526bdf6"
     }
 ]
